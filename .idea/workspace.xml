@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a252631-51e2-48a4-883b-86c61155b8d4" name="Default Changelist" comment="" />
+    <list default="true" id="9a252631-51e2-48a4-883b-86c61155b8d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -73,7 +75,7 @@
           <entry key="gitignore" value="53" />
           <entry key="html" value="5395" />
           <entry key="js" value="9769" />
-          <entry key="json" value="634" />
+          <entry key="json" value="638" />
           <entry key="ts" value="16151" />
         </counts>
       </usages-collector>
@@ -81,7 +83,7 @@
         <counts>
           <entry key="CSS" value="194" />
           <entry key="HTML" value="5390" />
-          <entry key="JSON" value="634" />
+          <entry key="JSON" value="638" />
           <entry key="JavaScript" value="9774" />
           <entry key="PLAIN_TEXT" value="53" />
           <entry key="TypeScript" value="16151" />
@@ -139,19 +141,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="102">
+              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="204">
               <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
             </state>
           </provider>
@@ -277,8 +279,8 @@
         <option value="$PROJECT_DIR$/config/keys.prod.js" />
         <option value="$PROJECT_DIR$/config/keys.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/client/package.json" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -307,8 +309,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="341" />
-    <option name="y" value="150" />
+    <option name="x" value="334" />
+    <option name="y" value="149" />
     <option name="width" value="1037" />
     <option name="height" value="573" />
   </component>
@@ -456,12 +458,12 @@
       <workItem from="1542935777671" duration="503000" />
       <workItem from="1543309970247" duration="27217000" />
       <workItem from="1543653481919" duration="29625000" />
-      <workItem from="1543806779954" duration="11059000" />
+      <workItem from="1543806779954" duration="11874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186726000" />
+    <option name="totallyTimeSpent" value="187541000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -474,6 +476,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="341" y="150" width="1037" height="573" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.80669147" visible="true" weight="0.2822823" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -862,17 +865,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/client/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="204">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/package.json">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="102">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
         </state>
       </provider>
     </entry>
