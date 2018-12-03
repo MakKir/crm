@@ -13,6 +13,7 @@ import {FormControl, FormGroup, Validators} from "@angular/forms";
 export class PositionsFormComponent implements OnInit, AfterViewInit, OnDestroy {
 
   @Input('categoryId') categoryId: string
+  @Input('isNew') isNew: boolean
   @ViewChild('modal') modalRef: ElementRef
   positions: Position[] = []
   loading = true
