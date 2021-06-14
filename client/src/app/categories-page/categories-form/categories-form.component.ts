@@ -67,6 +67,7 @@ export class CategoriesFormComponent implements OnInit {
 
   onFileUpload(event: any) {
     const file = event.target.files[0];
+
     this.image = file
 
     const reader = new FileReader()
@@ -83,6 +84,7 @@ export class CategoriesFormComponent implements OnInit {
     this.form.disable()
     if(this.isNew) {
       obs$ = this.categoriesService.create(this.form.value.name, this.image)
+      console.log(this.image)
     } else {
       obs$ = this.categoriesService.update(this.category._id, this.form.value.name, this.image)
     }

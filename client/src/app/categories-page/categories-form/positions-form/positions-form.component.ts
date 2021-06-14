@@ -26,6 +26,7 @@ export class PositionsFormComponent implements OnInit, AfterViewInit, OnDestroy 
   }
 
   ngOnInit() {
+  
     this.form = new FormGroup({
       name: new FormControl(null, Validators.required),
       cost: new FormControl(1, [Validators.required, Validators.min(1)]),
